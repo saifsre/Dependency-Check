@@ -1,0 +1,6 @@
+version: '3'
+services:
+  dependency_check:
+    build: .
+    volumes:
+    - /Users/mohammedkhan/Desktop/Report:/home/report
